@@ -14,7 +14,7 @@ A Telegram bot to fetch and share discounted shoes from the Tiszacipő website.
 2. **Get Sale Items by Size**: Use the command `/kifuto` followed by the desired shoe size.
     - Example: `/kifuto 43` will fetch and display all size 43 shoes on sale.
 
-![Example Image](https://imgur.com/xWxSW4y)
+![Example Image](https://i.imgur.com/xWxSW4y.png)
 
 ## Installation
 
